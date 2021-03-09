@@ -1,0 +1,16 @@
+{
+  "name": "main.js",
+  "version": "0.5.7",
+  "description": "A bot used for setting up rules (like custom channels etc.) in Discord",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "npm": "^6.14.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheRealHiYT",
+  "license": "ISC"
+}
