@@ -40,4 +40,4 @@ switch (args[0]) {}
         }   
     }
 })
-bot.login('ODE4OTQxMjcxNzUwMDgyNjgx.YEfYfg.jwGT3yt_FhHJiY5lblHSuPx3PGs');
+bot.login('bot token');
